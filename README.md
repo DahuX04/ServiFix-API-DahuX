@@ -1,2 +1,2 @@
-# ServiFix-API-DahuX
- Servifix Rest Full Api
+# ServiFix-API
+servifix api, is responsible for controlling the application services
